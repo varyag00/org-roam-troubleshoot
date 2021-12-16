@@ -1,0 +1,4 @@
+* First heading
+- [[id:3e3ba976-1036-4653-bbca-1218d2d60ee4][foo]] 
+* Second Heading
+- [[id:9ffb24a6-02e8-4679-af1a-e15a5d02cfce][bar]] 
